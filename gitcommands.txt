@@ -1,0 +1,21 @@
+ls:-this command is used to list all
+ the files in the path
+
+cd:-cd command is used to change the
+ current path
+->go to file explorer 
+->select file
+->copy the url of file location
+->cd paste the url here
+
+->check your path is change or not using
+ ls command
+
+git init
+git remote add origin <gitlink>
+git rempte -v
+git add.
+git commit -m "first commit"
+git push origin master
+
+git help
